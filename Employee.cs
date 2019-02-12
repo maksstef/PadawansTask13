@@ -34,7 +34,7 @@ namespace PadawansTask13
 
         public string ThirdMethod()
         {
-            string str = $"Surname:{Surname}, Age:{Age}";
+            string str = $"Surname: {Surname}, Age: {Age}";
             return str;
         }
     }
